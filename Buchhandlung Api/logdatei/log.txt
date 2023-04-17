@@ -1,0 +1,1 @@
+This user was added: Titel='string' Autor='string' Erscheinungsjahr=0 Herausgeber='string' Seitenanzahl=0 Preis=0.0 AufLager=0 at this time 2023-03-24 16:23:42.060407
